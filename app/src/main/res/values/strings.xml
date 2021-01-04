@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="save">Saev</string>
+    <string name="delete_all_notes">Delete All</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+</resources>
